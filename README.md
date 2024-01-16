@@ -64,5 +64,3 @@ If you have any question, suggestion, or issue, please [post here](https://creat
 
 ### 1.0.0
 - Initial release
-
----
